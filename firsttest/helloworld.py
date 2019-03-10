@@ -1,6 +1,6 @@
 def user_name(name,surname):
 	#outname =  surname+", "+ name 
-	outname = "Lord " + name+ " of "+ surname + "III"
+	outname = "Lord " + name+ " of "+ surname + " III"
 	return outname
 
 def main():		
